@@ -1,4 +1,4 @@
-#node-service
+# node-service
 The node backend calculates the cpu load using os.cpus(). It uses socket.emit to send the cpu load information. The node server runs
 on port 8000 when you execute node app.js
 Steps -
@@ -12,6 +12,7 @@ Steps -
   1. npm install  
   2. npm run build
   3. npm start
+  
 In your browser open http://localhost:3000/ 
 
 
